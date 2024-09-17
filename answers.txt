@@ -9,3 +9,7 @@ Answer: Data science can be applied to research. For example, there are various 
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging applies the changes made on one branch to the branch that you are merging to, and the branch with the changes (the one that is getting merged) stays separate. Rebasing is moving the branch with the changes to main - the main branch will now end with the branch, rather than being separate (forked) from the branch.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I want to improve my skills in using pandas and SQL. I also want to learn effective techniques in analyzing data.
