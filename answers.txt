@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Git is a very popular method in which people can store code, as well as have a way to track the changes they make. The feature of easy collection of data would be useful for our class.
