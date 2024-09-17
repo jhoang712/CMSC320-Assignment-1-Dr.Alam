@@ -5,3 +5,7 @@ Answer: Git is a very popular method in which people can store code, as well as 
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to research. For example, there are various labs here at UMD that do different areas in research such as AI and ML. The researchers often download datasets do testing. It's important to know how to parse this data, which is where data science comes into play.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging applies the changes made on one branch to the branch that you are merging to, and the branch with the changes (the one that is getting merged) stays separate. Rebasing is moving the branch with the changes to main - the main branch will now end with the branch, rather than being separate (forked) from the branch.
